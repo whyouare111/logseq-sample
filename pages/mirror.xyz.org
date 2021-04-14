@@ -4,5 +4,5 @@
 *** Slogan
 **** Writing as usual.
 Publishing like never before.
-****
+**** 使用体验上的核心。写文章的体验要顺应 Web 1.0 ~ Web 2.0 发展下来各种内容平台/生产力工具的使用体验
 **
