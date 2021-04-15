@@ -137,4 +137,5 @@ title: The MVP Before Christmas
 ###
 > 期待不久后有更多关于$WRITE的信息。
 #### 个人补充
-#####
+##### 指的可能是 [[$WRITE RACE]]
+######
