@@ -26,5 +26,5 @@ Publishing like never before.
 ****** [[The MVP Before Christmas]]
 **** 图床服务器是  https://images.mirror-media.xyz/
 **** 每篇文章都会展现其对应的 Arweave Tx ，作者的 Ethereum Address，文章的 Digest
-***** 审计作用
+***** 确权和审计作用
 **
