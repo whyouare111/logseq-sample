@@ -3,6 +3,7 @@ title: The MVP Before Christmas
 ---
 
 ## 来源 https://dev.mirror.xyz/J1RD6UQQbdmpCoXvWnuGIfe7WmrbVRdff5EqegO1RjI
+###
 ## 如何构建一个 Web3 原生的写作平台
 ### 首先面临的一个挑战是，从 web3 的角度思考如何搭建平台。以下是 web3 的游戏规则（ via negativa 式，即 “它不是什么/它不应该如何”）
 #### 1. 帖子内容不应该是中心化的
