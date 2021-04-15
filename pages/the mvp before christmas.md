@@ -21,7 +21,7 @@ title: The MVP Before Christmas
 ##### 签名密钥本身会被放入一个申明作者权利的消息中，然后由作者的以太坊地址进行签名。
 ###### 这些信息也会上传至 Arweave
 ####### 对应每个条目和更新。
-####### 见 json 的 `authorship.`
+####### 见 json 的 `authorship.signingKeyMessage`
 #### 3. ^^Mirror^^不应拥有作家的域名
 #### 4. 作家不需要连接他们的钱包并签署他们所写的一切
 #### 5. ^^Mirror^^不应尝试在浏览器端存储以太坊私钥
