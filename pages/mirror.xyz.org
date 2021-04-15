@@ -4,6 +4,7 @@
 *** Slogan
 **** Writing as usual.
 Publishing like never before.
+*** [[The MVP Before Christmas]]
 *** 书写端门槛很平滑
 **** 沿袭了主流内容平台的书写体验
 *** 发布模型使用了区块链相关技术
@@ -23,7 +24,6 @@ Publishing like never before.
 **** 对文章内容进行签名，来确保文章内容是没有被篡改的
 ***** 使用专门的签名私钥
 ****** Signing Keys, Multi-Device, and the Fundamental UI Problem in Crypto https://g.mirror.xyz/FNo46PS21mjaAVLu-Nt1HeJT_yH-8lnm0W-HsjG6px8
-****** [[The MVP Before Christmas]]
 **** 图床服务器是  https://images.mirror-media.xyz/
 **** 每篇文章都会展现其对应的 Arweave Tx ，作者的 Ethereum Address，文章的 Digest
 ***** 确权和审计作用
