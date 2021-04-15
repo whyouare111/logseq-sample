@@ -20,6 +20,8 @@ title: The MVP Before Christmas
 ##### 签名、签名过的摘要、签名的内容上传 Arweave
 ###### `content.body`
 ###### `content.digest`
+###### `authorship.signature`
+######
 ##### 签名密钥本身会被放入一个申明作者权利的消息中，然后由作者的以太坊地址进行签名。
 ###### 这些信息也会上传至 Arweave
 ####### 对应每个条目和更新。
