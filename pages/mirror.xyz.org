@@ -4,6 +4,26 @@
 *** Slogan
 **** Writing as usual.
 Publishing like never before.
-**** 使用体验上的核心。写文章的体验要顺应 Web 1.0 ~ Web 2.0 发展下来各种内容平台/生产力工具的使用体验
-****
+*** 书写端门槛很平滑
+**** 沿袭了主流内容平台的书写体验
+*** 发布模型使用了区块链相关技术
+**** 基于以太坊钱包的用户账号模型
+***** Connect Wallet
+***** 用钱包签名来验证 Twitter Social Link，绑定账号
+**** 文章的 Meta 数据以 json 格式保存在 Arweave上
+***** 示例
+****** 站点文章地址 https://linda.mirror.xyz/Vh8K4leCGEO06_qSGx-vS5lvgUqhqkCz9ut81WwCP2o
+****** 可以在页脚确认到 ARWEAVE TX ID
+******* Lj1OkKr1ySt9Z4uoI4XRB7KhNDA6Br2USxsMXdclqBE
+******* 在 Arweave 区块浏览器查看 https://viewblock.io/arweave/tx/Lj1OkKr1ySt9Z4uoI4XRB7KhNDA6Br2USxsMXdclqBE
+******* 加上 arweave gateway
+******** 事务数据 https://arweave.net/tx/Lj1OkKr1ySt9Z4uoI4XRB7KhNDA6Br2USxsMXdclqBE
+******** 文章的 Meta 数据 https://arweave.net/Lj1OkKr1ySt9Z4uoI4XRB7KhNDA6Br2USxsMXdclqBE
+*********
+**** 对文章内容进行签名，来确保文章内容是没有被篡改的
+***** 使用专门的签名私钥
+****** Signing Keys, Multi-Device, and the Fundamental UI Problem in Crypto https://g.mirror.xyz/FNo46PS21mjaAVLu-Nt1HeJT_yH-8lnm0W-HsjG6px8
+****** [[The MVP Before Christmas]]
+**** 图床服务器是  https://images.mirror-media.xyz/
+**** 每篇文章都会展现其对应的 Arweave Tx ，作者的 Ethereum Address，文章的 Digest
 **
