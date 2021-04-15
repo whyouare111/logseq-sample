@@ -80,4 +80,4 @@ title: The MVP Before Christmas
 ######### [[Web of Trust]]
 ######### [[Social Token]] 到 [[DAO]] 的治理
 ######### [[Fediverse]] 生态的经验也许有帮助
-######### 说白了还是把口碑上链
+######### 说白了还是把口碑上链，
