@@ -16,7 +16,7 @@ Publishing like never before.
 ****** 可以在页脚确认到 ARWEAVE TX ID
 ******* Lj1OkKr1ySt9Z4uoI4XRB7KhNDA6Br2USxsMXdclqBE
 ******* 在 Arweave 区块浏览器查看 https://viewblock.io/arweave/tx/Lj1OkKr1ySt9Z4uoI4XRB7KhNDA6Br2USxsMXdclqBE
-******* TX ID 加上 arweave gateway 后可以
+******* TX ID 加上 arweave gateway 后可以得到查看数据的链接
 ******** 事务数据 https://arweave.net/tx/Lj1OkKr1ySt9Z4uoI4XRB7KhNDA6Br2USxsMXdclqBE
 ******** 文章的 Meta 数据 https://arweave.net/Lj1OkKr1ySt9Z4uoI4XRB7KhNDA6Br2USxsMXdclqBE
 *********
