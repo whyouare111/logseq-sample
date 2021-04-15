@@ -79,4 +79,5 @@ title: The MVP Before Christmas
 ######## 这里又涉及到服务器是否安全的问题。如何判断实例是可信的？
 ######### [[Web of Trust]]
 ######### [[Social Token]] 到 [[DAO]] 的治理
-######### [[Fediverse]]生态的经验也许有帮助
+######### [[Fediverse]] 生态的经验也许有帮助
+#########
