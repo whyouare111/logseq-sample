@@ -65,4 +65,5 @@ title: The MVP Before Christmas
 ####### 即使 Mirror 不再提供服务，已经上传到 Arweave 上的现有文章的元数据依然可以通过 Arweave 取得，也就是说可以自己构建出博文阅读器
 ######## 事实上已经有了 https://github.com/m1guelpf/mirror-next
 ######### 用 Vercel 几乎可以做到一键部署
+######### 支持 RSS Feed
 #########
