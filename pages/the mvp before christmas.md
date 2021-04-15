@@ -4,7 +4,7 @@ title: The MVP Before Christmas
 
 ## 来源 https://dev.mirror.xyz/J1RD6UQQbdmpCoXvWnuGIfe7WmrbVRdff5EqegO1RjI
 ### 对应的 Arweave 存储 https://4y3qyvn34whoszbepxgnssldfclem5uthkb34jj4amysp67pl6ta.arweave.net/5jcMVbvljulkJH3M2UljKJZGdpM6g74lPAMxJ_vvX6Y
-## 如何构建一个 Web3 原生的写作平台
+## **如何构建一个 Web3 原生的写作平台**
 ### 首先面临的一个挑战是，从 web3 的角度思考如何搭建平台。以下是 web3 的游戏规则（ via negativa 式，即 “它不是什么/它不应该如何”）
 #### 1. 帖子内容不应该是中心化的
 ##### 使用 Arweave 来存储用户内容
@@ -57,7 +57,7 @@ title: The MVP Before Christmas
 ###### 个人补充：如果想做 [[Substack]] 那样的 Newsletter 服务, 关联一个邮箱地址还是有必要的——不过依然没必要用来登录
 ##### 入驻时增加事务确认。会持续改进，以后会变得更顺畅
 ###### 个人补充：能看出来 Mirror 团队对这种和传统使用体验不同的部分有花心思去思考想替代方案
-### 架构图
+### **架构图**
 #### [架构图](https://images.mirror-media.xyz/publication-images/4ad92c52-5226-40c1-b654-4bbfe905c278.jpeg){:height 472, :width 604}
 ### **上主网前的测试**
 #### 
