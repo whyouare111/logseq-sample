@@ -115,3 +115,9 @@ title: The MVP Before Christmas
 > 我们能够非常快速地推出MVP--我们的目标是在圣诞节前发货，直到12月才开始构建后端。所以总的来说，我们只花了几周的时间就构建了一个新颖的CMS，它使用公钥私钥签名来验证内容，在Postgres中存储数据，在Arweave上存储数据，在Ethereum上烧毁一个令牌来宣称ENS标签的所有权，验证该标签的所有权，对我们的签名模型进行迭代，等等。
 ### 具体的例子
 ####
+>Trent的第一篇博文：https:/stateful.mirror.xyza151ee1decb2028a8bb48277f6928c6f38319c32601dc1da1ee82acfcad2e525
+####
+> 一个烧毁$WRITE令牌并声称有ENS域的事务：https:/rinkeby.etherscan. iotx0x29b9d13187a2db64b7d85f4ff5be739729b07404fd1f5fce79b3bba13da7530b
+####
+> 一个Arweave事务，永远存储 Linda 的帖子，以及证明作者身份的签名：https:/viewblock.ioarweavetxWvwsHyKCjfkLoKNbNSGfoV-vaWrJa2PMYB_c3wucXUA
+###
