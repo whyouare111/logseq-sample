@@ -1,4 +1,4 @@
-#+TITLE: Mirror.xyz
+#+TITLE: mirror.xyz
 
 ** https://mirror.xyz/
 *** Slogan
