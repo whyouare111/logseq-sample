@@ -27,7 +27,7 @@ title: The MVP Before Christmas
 ###### `authorship.signingKeyMessage`
 #### 3. ^^Mirror^^不应拥有作家的域名
 ##### [[ENS]]
-###### 通过销毁一个 [[$WRITE]] Token 来声明对域名的所有权
+###### 作家通过销毁一个 [[$WRITE]] Token 来声明对域名的所有权
 ####### [[$WRITE]] 用投票的方式来邀请 [[Twitter]] 用户
 #### 4. 作家不需要连接他们的钱包并签署他们所写的一切
 #### 5. ^^Mirror^^不应尝试在浏览器端存储以太坊私钥
