@@ -45,7 +45,7 @@ title: The MVP Before Christmas
 ####### 个人补充：可以说这个方案是 mirror.xyz 的作者们想出来的，在他知识体系内这个方案足够安全，但因为不是密码学专家，比如可能有意想不到的攻击法能得到IndexDB本身？
 #### 6. 写作不应该太贵 （对 ^^Mirror^^ 或作家来说都是）
 ##### 由 Arweave 方案解决了。非常便宜（至少在当前是？）
-######
+###### 按照目前(2020-)的汇率，每篇博文的成本约为0.00005AR，约合0.00015美元。
 #### 7. 奖励： 不用邮箱-密码注册
 ### 架构图大致是这样
 #### [架构图](https://images.mirror-media.xyz/publication-images/4ad92c52-5226-40c1-b654-4bbfe905c278.jpeg){:height 472, :width 604}
