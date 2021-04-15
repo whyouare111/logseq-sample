@@ -53,4 +53,5 @@ title: The MVP Before Christmas
 ###### 个人补充：能看出来 Mirror 团队对这种和传统使用体验不同的部分有花心思去思考想替代方案
 ### 架构图大致是这样
 #### [架构图](https://images.mirror-media.xyz/publication-images/4ad92c52-5226-40c1-b654-4bbfe905c278.jpeg){:height 472, :width 604}
-###
+### 上主网前的测试
+####
