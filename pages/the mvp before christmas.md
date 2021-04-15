@@ -121,3 +121,7 @@ title: The MVP Before Christmas
 ####
 > 一个Arweave事务，永远存储 Linda 的帖子，以及证明作者身份的签名：https:/viewblock.ioarweavetxWvwsHyKCjfkLoKNbNSGfoV-vaWrJa2PMYB_c3wucXUA
 ###
+> 回想过去一个月的时间，我们所能打造出来的一切，也是很累的! 而事实上，这基本上是工作的，是非常有趣和令人兴奋的。我很高兴我们也做了相当多的 "公开 "的工作，并有屏幕记录我们的入职会议。
+#### 个人补充
+##### 感觉是个不错的推进项目的方式
+##
